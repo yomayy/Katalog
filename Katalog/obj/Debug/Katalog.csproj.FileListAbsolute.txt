@@ -1,0 +1,10 @@
+D:\src\VS_C#\Katalog\Katalog\bin\Debug\Katalog.exe.config
+D:\src\VS_C#\Katalog\Katalog\bin\Debug\Katalog.exe
+D:\src\VS_C#\Katalog\Katalog\bin\Debug\Katalog.pdb
+D:\src\VS_C#\Katalog\Katalog\obj\Debug\Katalog.csprojAssemblyReference.cache
+D:\src\VS_C#\Katalog\Katalog\obj\Debug\Katalog.Properties.Resources.resources
+D:\src\VS_C#\Katalog\Katalog\obj\Debug\Katalog.csproj.GenerateResource.cache
+D:\src\VS_C#\Katalog\Katalog\obj\Debug\Katalog.csproj.CoreCompileInputs.cache
+D:\src\VS_C#\Katalog\Katalog\obj\Debug\Katalog.exe
+D:\src\VS_C#\Katalog\Katalog\obj\Debug\Katalog.pdb
+D:\src\VS_C#\Katalog\Katalog\obj\Debug\Katalog.Katalog.resources
